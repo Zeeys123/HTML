@@ -1,0 +1,208 @@
+
+
+header {
+
+    background-color: cornflowerblue;
+
+}
+
+nav {
+    
+    background-color: darksalmon;
+
+    position: sticky;
+    top: 0;
+    z-index: 2;
+
+}
+
+#intro {
+
+    background-color: darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.main-section-content h2 {
+
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#bestsellers,
+footer {
+
+    background-color: khaki;
+
+}
+
+header,
+nav,
+#intro
+#main-section
+#bestsellers,
+footer {
+
+    border: 1px solid black;
+}
+
+header,
+nav,
+#main-section {
+
+border-radius: 10px;
+
+}
+
+header h1 {
+
+    color: azure;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h2,
+p {
+
+color: black;
+
+}
+
+table,
+th,
+td {
+
+    border: 1px solid black;
+
+}
+
+tr:last-child {
+
+    color: red;
+
+}
+ 
+span {
+
+    color: blue;
+
+}
+
+footer p:first-child span {
+
+    color: red;
+    
+}
+
+.teacher-info {
+
+    border-radius: 5px;
+
+}
+
+button {
+
+    background-color: darksalmon;
+    color: rgb(247, 216, 176);
+
+    font-size: 20px;
+    font-weight: bold;
+
+    position: fixed;
+    right: 50px;
+    bottom: 40px;
+
+}
+
+ul {
+
+    list-style-type: none;
+
+}
+
+li a {
+
+    text-decoration: none;
+    color: indianred;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+li a:hover {
+
+    color: chocolate;
+
+}
+
+p {
+
+    font: 18px;
+
+}
+
+h3 {
+
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+
+}
+
+nav li {
+
+ margin: 10px;
+ padding: 5px;
+ border: 1px solid;   
+ border-radius: 5px;
+
+}
+
+.main-section-content {
+
+    padding: 20px;
+
+}
+
+table {
+
+    margin: auto;
+
+}
+
+th,
+td {
+
+    padding: 10px;
+
+
+}
+
+footer {
+     
+    pad: 20px;
+
+}
+
+#bestsellers h2 {
+
+    padding: 20px;
+
+}
+
+ol li {
+
+    margin-bottom: 20px;
+
+}
+
+#bookreviews p,
+#bookreviews h3 { 
+
+    position: relative;
+    left: 40%;
+    width: 400px;
+
+}
